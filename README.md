@@ -3,12 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justin7034mathew&label=Profile%20views&color=0e75b6&style=flat" alt="justin7034mathew" /> </p>
 
+- 🔭 I’m currently working on **Backend**
+
 - 🌱 I’m currently learning **MERN STACK**
+
+- 👨‍💻 All of my projects are available at [GitHub](GitHub)
+
+- 💬 Ask me about **Programming**
 
 - 📫 How to reach me **mathewjustin50@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/justin mathew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="justin mathew" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
