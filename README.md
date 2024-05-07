@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm JUSTIN MATHEW</h1>
+<h2 align="center">Hi 👋, I'm JUSTIN MATHEW</h2>
 <h3 align="center">A passionate FULL STACK developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justin7034mathew&label=Profile%20views&color=0e75b6&style=flat" alt="justin7034mathew" /> </p>
